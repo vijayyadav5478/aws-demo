@@ -1,2 +1,1 @@
-# aws-demo
-AWS Training Demo
+# AWS-Terraform
